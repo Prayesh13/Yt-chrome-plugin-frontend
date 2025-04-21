@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Youtube Comment Sentiment Analysis",
+    "version": "1.0",
+    "description": "Check is the current URL is a YouTube video URL and fetches the comment count.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["tabs"]
+  }
+  
