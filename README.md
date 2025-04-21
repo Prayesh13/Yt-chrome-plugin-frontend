@@ -8,12 +8,9 @@ This extension allows users to easily view comment metrics, sentiment analysis, 
 ## 🚀 Features
 
 - 📋 **List and display** YouTube comments dynamically
-- 🎨 **Dark theme** with a sleek YouTube-style vibe
 - 📈 **Display metrics** like total comments, positive/negative sentiment count
 - 🧠 **Sentiment highlights** for comments
 - ⚡ **Fast and lightweight** Chrome Extension
-- 🔥 **Animated hover effects** for a rich UX
-- 🎬 **YouTube-themed design** with colors and icons
 
 ---
 
