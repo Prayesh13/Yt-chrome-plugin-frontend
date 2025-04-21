@@ -1,10 +1,3 @@
-Of course!  
-Here’s the full **ready-to-copy** `README.md` file for your project — correctly formatted with no extra backticks around it, professional structure, and markdown standards ✅:
-
----
-
-# 📄 README.md
-
 # YouTube Comment Analyzer - Chrome Extension
 
 A minimal and elegant Chrome Extension that analyzes YouTube video comments with a stylish dark theme interface.  
